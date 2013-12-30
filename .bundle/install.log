@@ -1,0 +1,11 @@
+# Logfile created on 2013-12-30 13:56:07 +0530 by logger.rb/31641
+I, [2013-12-30T13:56:07.843615 #4986]  INFO -- : 0:  rake (0.8.7) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/rake-0.8.7.gemspec
+I, [2013-12-30T13:56:10.370455 #4986]  INFO -- : 0:  activesupport (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activesupport-2.3.18.gemspec
+I, [2013-12-30T13:56:10.370943 #4986]  INFO -- : 0:  rack (1.1.6) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/rack-1.1.6.gemspec
+I, [2013-12-30T13:56:19.099457 #4986]  INFO -- : 0:  actionpack (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/actionpack-2.3.18.gemspec
+I, [2013-12-30T13:56:21.164922 #4986]  INFO -- : 0:  actionmailer (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/actionmailer-2.3.18.gemspec
+I, [2013-12-30T13:56:25.631530 #4986]  INFO -- : 0:  activerecord (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activerecord-2.3.18.gemspec
+I, [2013-12-30T13:56:27.480175 #4986]  INFO -- : 0:  activeresource (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activeresource-2.3.18.gemspec
+I, [2013-12-30T13:56:35.046719 #4986]  INFO -- : 0:  mysql2 (0.2.21) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/mysql2-0.2.21.gemspec
+I, [2013-12-30T13:56:38.712202 #4986]  INFO -- : 0:  rails (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/rails-2.3.18.gemspec
+I, [2013-12-30T13:56:38.712737 #4986]  INFO -- : 0:  bundler (1.5.0) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/specifications/bundler-1.5.0.gemspec
